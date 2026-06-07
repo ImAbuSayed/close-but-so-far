@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-but-so-far/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Close But So Far](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-but-so-far/) |
+| **Get License** | [Obtain a Music License for Close But So Far](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-but-so-far/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Across the wooden table, our hands almost touch
+> A fragile line between a whisper and a rush
+> I feel the pull inside your quiet, heavy stare
+> We are so close, but still a million miles from there
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

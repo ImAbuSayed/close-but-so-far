@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/close-but-so-far/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Close But So Far](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-but-so-far/) |
+| **Get License** | [Request Licensing for Close But So Far](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/close-but-so-far/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `53001b8a09d643e44733c5283ad30698908ee48058d84fd4a07d0b15453d6476` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
